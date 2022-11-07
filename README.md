@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [travel and financial tips](travel and financial tips)
 
-- 💬 Ask me about **Projects, AWS, POSTMAN, JIRA, ELASTIC, KIBANA**
+- 💬 Ask me about **Technology Projects, AWS, POSTMAN, JIRA, ELASTIC, KIBANA**
 
 - 📫 How to reach me **club.berny@gmail.com**
 
-- ⚡ Fun fact **I'm a professional person of high level and good results, I'm so funny and compromited with my objetives**
+- ⚡ Fun fact **I'm a professional person of high level and good results, I'm so funny and compromited with the objetives**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
